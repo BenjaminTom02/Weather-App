@@ -12,7 +12,7 @@
 - Finally, run the code and click on **Weather** to enjoy the results!!!
 
 # DEMO
-I have run it in PyCharm :>
+**I have run it in PyCharm :>**
 
 <img width="393" height="521" alt="{60B33B1F-67EA-4473-BD05-AF5AB1CFE855}" src="https://github.com/user-attachments/assets/2512e613-abde-47d0-bb99-44f48362e036" />
 
